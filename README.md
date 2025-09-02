@@ -1,2 +1,8 @@
 # LeetCode_prac
-Coding test practice using LeetCode
+
+own_code는 제가 문제를 해결하기 위해 작성한 코드입니다. 
+
+개선된 코드는 각 디렉토리의 readme로 무엇이 개선되었는지와 개선된 파일명을 작성했습니다.
+
+개선된 코드는 "파이썬 알고리즘 인터뷰"와 LeetCode에 공개된 코드를 참고하였습니다.
+
